@@ -1,4 +1,4 @@
-<h2 align="left">I'm Afsal Moideen TK, a full-stack web developer dedicated to crafting clean, efficient, and scalable web solutions.</h2>
+<h2 align="left">I'm Afsal TK, a full-stack web developer dedicated to crafting clean, efficient, and scalable web solutions.</h2>
 
 <h3>🛠️ Tech Stack</h3>
 
