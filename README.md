@@ -16,6 +16,10 @@
 
 <h3>🚀 Featured Projects</h3>
 
+- 📱 [**QR Code Generator**](https://github.com/afzytk/qr-code-generator)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)  
+  A simple tool to generate QR codes for text and URLs, with download functionality and a clean popup UI.  
+
 - 🎯 [**Pomodoro Timer**](https://github.com/afzytk/pomodoro-timer)  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5)  
   A customizable productivity timer with session/break controls, built for improving focus and time management.
