@@ -1,45 +1,39 @@
-<h2 align="left">I'm Afsal TK, a full-stack web developer dedicated to crafting clean, efficient, and scalable web solutions.</h2>
-
-<h3>🛠️ Tech Stack</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="HTML5" />
-</div>
-
-<h3>🚀 Featured Projects</h3>
-
-- 📱 [**QR Code Generator**](https://github.com/afzytk/qr-code-generator)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)  
-  A simple tool to generate QR codes for text and URLs, with download functionality and a clean popup UI.  
-
-- 🎯 [**Pomodoro Timer**](https://github.com/afzytk/pomodoro-timer)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5)  
-  A customizable productivity timer with session/break controls, built for improving focus and time management.
-
-<h3>📫 Connect with Me</h3>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/afsaltk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Badge" />
-  </a>
-</div>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/afzytk/afzytk/output/snake.svg" alt="Snake animation" />
+
+<h1>Hi, I'm Afsal 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Full-stack+developer;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+features+from+database+to+UI" alt="Typing animation" />
+
+<p>
+  <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge" alt="Email" /></a>
+</p>
+
 </div>
 
-<h3>📊 GitHub Stats</h3>
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afzytk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=afzytk&show_icons=true&theme=default&hide_border=false" height="180" />
-</div>
+| Project                                        | What it is                                                                            | Stack                                       |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------- |
+| **[RivalRec](REPO_URL)** · [Live](LIVE_URL)    | Football match tracking and tournament platform                                       | React, Node.js, Express, Prisma, PostgreSQL |
+| **[Jobvio](REPO_URL)** · [Live](LIVE_URL)      | Job board connecting job seekers with employers, with Clerk auth and real-time search | React, Tailwind CSS, Supabase, Clerk        |
+| **[Spylt Clone](REPO_URL)** · [Live](LIVE_URL) | Responsive, high-fidelity UI replica with sequenced GSAP animations                   | React, Tailwind CSS, GSAP                   |
+| **[Portfolio](REPO_URL)** · [Live](LIVE_URL)   | Personal developer portfolio built with the App Router                                | Next.js, TypeScript, Tailwind CSS           |
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,nodejs,express,postgres,prisma,supabase,git,github,figma&perline=7" alt="Tech stack" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=afzytk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzytk&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
